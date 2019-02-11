@@ -1,0 +1,22 @@
+{
+  "name": "use-timed-index",
+  "version": "1.0.0",
+  "description": "React hook to get a timed, incrementing index.",
+  "main": "index.js",
+  "repository": "git@github.com:nicobarray/use-timed-index.git",
+  "author": "Nicolas Barray",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "16.8.1",
+    "use-interval": "1.0.3"
+  },
+  "devDependencies": {
+    "jest": "24.1.0",
+    "react": "16.8.1",
+    "react-dom": "16.8.1",
+    "react-testing-library": "5.6.0"
+  },
+  "dependencies": {
+    "use-interval": "1.0.3"
+  }
+}
