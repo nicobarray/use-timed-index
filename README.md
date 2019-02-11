@@ -33,7 +33,7 @@ npm i use-timed-index
 
 ## Created by
 
-- [Nicolas Barray](https://nicobarray.com)
+- [Nicolas Barray](https://github.com/nicobarray)
 
 ## License
 
