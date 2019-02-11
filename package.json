@@ -1,6 +1,6 @@
 {
   "name": "use-timed-index",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "React hook to get a timed, incrementing index.",
   "main": "index.js",
   "repository": "git@github.com:nicobarray/use-timed-index.git",
