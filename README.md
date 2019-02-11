@@ -31,6 +31,8 @@ or
 npm i use-timed-index
 ```
 
+Has `react` as --peer dependency.
+
 ## Created by
 
 - [Nicolas Barray](https://github.com/nicobarray)
