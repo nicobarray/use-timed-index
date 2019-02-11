@@ -7,8 +7,7 @@
   "author": "Nicolas Barray",
   "license": "MIT",
   "peerDependencies": {
-    "react": "16.8.1",
-    "use-interval": "1.0.3"
+    "react": "16.8.1"
   },
   "devDependencies": {
     "jest": "24.1.0",

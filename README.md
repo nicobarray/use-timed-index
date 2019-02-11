@@ -21,6 +21,8 @@ function App() {
 
 ### Install
 
+Has `react` as --peer dependency.
+
 ```javascript
 yarn add use-timed-index
 ```
@@ -31,7 +33,6 @@ or
 npm i use-timed-index
 ```
 
-Has `react` as --peer dependency.
 
 ## Created by
 
